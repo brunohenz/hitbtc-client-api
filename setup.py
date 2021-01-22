@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="hitbtc-api-brunohenz",
-    version="0.0.4",
+    version="0.0.5",
     author="Bruno Henz",
     author_email="brunohzsalomao@gmail.com",
     description="Client to HitBtc API",
